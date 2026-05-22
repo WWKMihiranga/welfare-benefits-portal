@@ -227,8 +227,6 @@ welfare-app/
 
 ## 🚀 Running locally
 
-> Full step-by-step setup is in [`docs/DEPLOYMENT.md`](./docs/DEPLOYMENT.md). Quick version:
-
 ```bash
 # 1. Install dependencies
 npm install
